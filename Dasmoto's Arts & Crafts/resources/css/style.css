@@ -1,0 +1,38 @@
+
+* {
+  font-family: Helvetica;
+}
+
+span {
+  color: blue;
+}
+
+h1 {
+  background-image: url("file:///C:/Users/ktran/Documents/projects/Dasmoto's%20Arts%20&%20Crafts/resources/images/pattern.jpeg");
+  text-align: center;
+  font-size: 100px;
+  color: Khaki;
+}
+
+.item h2 {
+  color: White;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.price {
+   color: Blue;
+   font-weight: bold;
+}
+
+#brush {
+  background-color: MediumSpringGreen;
+}
+
+#frame {
+  background-color: LightCoral;
+}
+
+#paint {
+  background-color: SkyBlue;
+}
